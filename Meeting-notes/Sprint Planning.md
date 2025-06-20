@@ -10,10 +10,10 @@ Sprint Planning – June 24 to July 7
 Deploy a working version of the “Feedback Form Integration” on the product dashboard.
 
 📋 Committed Stories:  
-\- US-001: Submit feedback form  
-\- US-002: Store feedback in DB  
-\- US-003: Confirmation message  
-\- US-004: Backend API integration
+\- FFIS-3: Submit feedback form  
+\- FFIS-4: Store feedback in DB  
+\- FFIS-5: Confirmation message  
+\- FFIS-6: Backend API integration
 
 ⏱ Capacity Assumption:  
 \- Each member available: 40 hrs/week → 80 hrs/sprint  
